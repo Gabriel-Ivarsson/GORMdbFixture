@@ -7,6 +7,7 @@ GORMdbFixture is a simple, light-weight fixture package made to handle live data
 ## Usage
 
 ## License
+GNU General Public License v3.0
 
 ## References
 GORM: https://gorm.io/
